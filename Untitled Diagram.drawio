@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T22:01:43.896Z" agent="5.0 (Windows)" version="15.5.8" etag="i5NO_89juQNTm4D-d1nc" type="github"><diagram id="bhQt4iYpDkivfhbv8RiQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-07T22:03:27.934Z" agent="5.0 (Windows)" etag="mxohe504V5-mmK4rGs4S" version="15.5.8" type="github">
+  <diagram id="bhQt4iYpDkivfhbv8RiQ" name="Page-1">
+    <mxGraphModel dx="1586" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4cyomoYhBxrvlVfgNyFZ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ipc2u.ru/upload/medialibrary/e03/im1.png;" vertex="1" parent="1">
+          <mxGeometry x="165" y="250" width="520" height="411" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
